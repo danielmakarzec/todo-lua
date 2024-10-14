@@ -1,0 +1,17 @@
+{
+  "todos":[{
+      "name":"TASK EXAMPLE",
+      "created_at":"Sun Oct 13 20:04:56 2024"
+    }],
+  "active":[{
+      "name":"Some task",
+      "created_at":"Sun Oct 13 23:26:12 2024"
+    }],
+  "completed":[{
+      "name":"Idz spac dorota!",
+      "created_at":"Sun Oct 13 23:36:47 2024"
+    },{
+      "name":"TASK EXAMPLE",
+      "created_at":"Sun Oct 13 23:19:09 2024"
+    }]
+}
