@@ -65,7 +65,7 @@ function createNewTask()
     clearScreen()
     setColor("yellow")
     print("Create New Task")
-    print("---------------")
+    print("--------------")
     setColor("reset")
     io.write("Enter task description (press Enter to submit): ")
     os.execute("stty sane")  -- Restore normal terminal behavior for input
